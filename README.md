@@ -1,10 +1,22 @@
-# Todo App
+# Todo - Flutter App
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+An App To manage all your tasks with Local Database(Sqflite) backend, Bloc State Managment and Shared Preferences.
+
+# Features :
+- Easy to use.
+- Add/Remove Tasks.
+- Mark Complete & not Complete Tasks.
+- Beautiful UI & Animation.
+- Dark & Light Mode.
+- Create a different color for each Tasks.
+
+# Screens
+
+![Apple iPhone 11 Pro Max Presentation](https://user-images.githubusercontent.com/41634372/202846757-c3b7a2b7-f3ab-44f0-9d64-3066cd707e1e.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
